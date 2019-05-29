@@ -3,5 +3,5 @@ This repository is for the assignments of UA CSc120 Summer 2019
 
 * [Coding Style](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/coding-style.md#csc-120-programming-style)
 
-* Assignments: submit to [Gradscope](https://www.gradescope.com/)
+* Assignments are submitted on [Gradscope](https://www.gradescope.com/)
 	* [week 1]()
