@@ -8,7 +8,9 @@
 
 *Long problems*: 11:00 PM, Sun Jun 9
 
-### Submission Instructions
+### Instructions
+
+**Submission**:
 
 Solutions to both short and long problems must be submitted on [Gradscope](https://www.gradescope.com).
 
@@ -18,8 +20,26 @@ Solutions to both short and long problems must be submitted on [Gradscope](https
 
 * Long problems MUST be submiited in two files, named *word_grid.py* and *word_search.py* respectly. Here are the [template I](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/week-1/templates/word_grid.py) and [template II](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/week-1/templates/word_search.py)
 
+### Short Problems (26 points)
 
-#### Short Problems (26 points)
+1. Number to letter
 
+2. List to string (Version 1)
 
-#### Long Problems (74 points)
+3. List to string (Version 2)
+
+4. Column to list
+
+5. Grid is square
+
+6. Find word pattern
+
+7. Find maximum sum
+
+8. Sum a CSV String
+
+### Long Problems (24 + 50 = 74 points)
+
+1. Word grid
+
+2. Word search
