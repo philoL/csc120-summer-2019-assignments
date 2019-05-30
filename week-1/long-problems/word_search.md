@@ -57,28 +57,24 @@ The words you find should be printed one to a line without any extra whitespace.
 
 ## Development Strategy
 
-* **Data Structures** Organize the list of valid words as a list of strings. Organize the grid as a list of lists.
-* Program development
+* **Data Structures** - Organize the list of valid words as a list of strings. Organize the grid as a list of lists.
+* **Program development**
 	1. Write a function `​occurs_in(s, L)` that indicates whether the string `s` occurs in a list of words `L` ignoring upper/lower case differences.
-	2. Searching horizontally. First, consider the problem of finding words horizontally in the grid going from left to right. Consider the first row in the example shown above:
-	```
-		y c o d e j
-	```
+	2. Searching horizontally. First, consider the problem of finding words horizontally in the grid going from left to right. Consider the first row in the example shown above: `y c o d e j`.
+
 	Notice that this row contains the words cod, code, and ode. Suppose that the row is represented as the list `[‘y’, ‘c’, ‘o’, ‘d’, ‘e’, ‘j’]`. A simple way to explore all the possible words (going L to R) in this list would be as follows (the process for the other rows is similar).
 		* Starting at the first element (i.e., ‘y’), check whether the sequence of length 3 starting at that position is a legal word (we start with length 3 because a legal word has to be at least three letters long). Then check for length 4, then for length 5, etc., until you reach the end of the list.
 		* Now repeat this step, but starting at the second element (i.e., ‘c’). Notice that this time you will come to the end of the list one step sooner. Then repeat for the third element, and so on.
 		* In each of these steps, your code is checking a sequence of list elements (e.g., the sequence of elements ‘c’, ‘o’, ‘d’, ‘e’) to see whether this is a word that occurs in your list of words. How can you use the function concat_list() from the Short Problems for this assignment?
-	Next consider the problem of searching for words horizontally going right to left. Suppose we want to search the row ​ `y c o d e j`​ going right to left. This is actually the same as reversing the row, to
-	```
-		j​ e d o c y
-	```
+	Next consider the problem of searching for words horizontally going right to left. Suppose we want to search the row ​ `y c o d e j`​ going right to left. This is actually the same as reversing the row, to `j​ e d o c y`
+
 	and then searching left to right (a problem you’ve solved already). The key thing to note here is that you’ve taken the problem of searching R-to-L and converted it into an equivalent problem involving an L-to-R search, for which you’ve already written code.
 	3. Searching vertically. Next consider the problem of searching for words vertically, i.e., among columns. Can you use the function column2list() from the Short Problems for this assignment to solve this problem going from top to bottom? Can you figure out a way of using column2list() with list-reversing to solve the problem of searching vertically going from bottom to top?
 	4. Searching diagonally. Searching diagonally is the hardest part of this problem, however, we are only considering one case: upper-left to lower-right.
 		* If you can extract each diagonal into a list of letters, then you can simply search through this list as you did before—again, reducing this problem to one you’ve already written code to solve.
-			* Suppose you start the diagonal at position 0 of row 0, i.e., at grid[0][0]. The diagonal elements are y s h f a g and correspond to the index values: [0][0], [1][1], [2][2], ... How do the x- and y-coordinates change as you go from one element to the next? Why do they change in this way?
-			* Suppose you start the diagonal at position 1 in row 0, i.e., grid[0][1]. The diagonal elements are c e b x i (Note: this diagonal is shorter than the previous one) and correspond to the index values: [0][1], [1][2], [2][3], .... How do the x- and y-coordinates change as you go from one element to the next? Why do they change in this way?
-			* Repeat this exercise for the diagonal starting at grid[1][0]. Look at how the x- and y-coordinates change between from each element to the next. How does this compare to the way they changed for the other two diagonals you considered (above)?
+		* Suppose you start the diagonal at position 0 of row 0, i.e., at grid[0][0]. The diagonal elements are y s h f a g and correspond to the index values: [0][0], [1][1], [2][2], ... How do the x- and y-coordinates change as you go from one element to the next? Why do they change in this way?
+		* Suppose you start the diagonal at position 1 in row 0, i.e., grid[0][1]. The diagonal elements are c e b x i (Note: this diagonal is shorter than the previous one) and correspond to the index values: [0][1], [1][2], [2][3], .... How do the x- and y-coordinates change as you go from one element to the next? Why do they change in this way?
+		* Repeat this exercise for the diagonal starting at grid[1][0]. Look at how the x- and y-coordinates change between from each element to the next. How does this compare to the way they changed for the other two diagonals you considered (above)?
 		Do you see a pattern in how the x- and y-coordinates change between successive elements? Can you use this pattern to extract a diagonal going from the upper-left to lower-right given its starting coordinates into a list?
 
 ## Testing
