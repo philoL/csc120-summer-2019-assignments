@@ -16,7 +16,7 @@ Solutions to both short and long problems must be submitted on [Gradscope](https
 
 **Format**:
 
-* Short problems MUST be submitted in a file named **short_problems.py**. Here is the [template](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/week-1/templates/short_problems.py).
+* ALL short problems MUST be submitted in **one** file named **short_problems.py**. Here is the [template](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/week-1/templates/short_problems.py).
 
 * Long problems MUST be submiited in two files, named **word_grid.py** and **word_search.py** respectly. Here are the [template I](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/week-1/templates/word_grid.py) and [template II](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/week-1/templates/word_search.py)
 
