@@ -14,7 +14,7 @@
 
 Solutions to both short and long problems must be submitted on [Gradscope](https://www.gradescope.com).
 
-**Format**:
+**Format** (You should use the templates to develope your code):
 
 * ALL short problems MUST be submitted in **one** file named **short_problems.py**. Here is the [template](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/week-1/templates/short_problems.py).
 
