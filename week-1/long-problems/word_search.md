@@ -2,17 +2,17 @@
 
 ## Background
 Word search is a word game that involves searching for words in a (random) grid of letters. This program simulates the game by searching for words in a grid. The program differs from the physical game in several ways:
-	* The physical game is usually played with a 4 × 4 grid. Your program will generalize this to any N × N grid (N ≥ 4), where N is provided by the user as input.
-	* The physical game uses a random grid. Your program will read the grid of letters from a file.
-	* The physical game is timed: players try to find as many words as they can before a timer runs out. Your program will not have this constraint.
-	* The pyhsical game includes words found on all diagonals. We will simplify the word search by eliminating all but one diagonal search.
+* The physical game is usually played with a 4 × 4 grid. Your program will generalize this to any N × N grid (N ≥ 4), where N is provided by the user as input.
+* The physical game uses a random grid. Your program will read the grid of letters from a file.
+* The physical game is timed: players try to find as many words as they can before a timer runs out. Your program will not have this constraint.
+* The pyhsical game includes words found on all diagonals. We will simplify the word search by eliminating all but one diagonal search.
 
 ## Definitions
 
 Given a grid of letters `G` and a list of words `L`, a word in `G` is legal if it meets the following criteria:
-	* it is at least **three** letters long;
-	* it can be formed from letters in G that are adjacent along a row (two cases: going left-to-right or right-to-left), a column (two cases: going top-to-bottom or bottom-to-top), or a diagonal (one case: going upper-left to lower-right); and
-	* it can be found in the list of words `L`.
+* it is at least **three** letters long;
+* it can be formed from letters in G that are adjacent along a row (two cases: going left-to-right or right-to-left), a column (two cases: going top-to-bottom or bottom-to-top), or a diagonal (one case: going upper-left to lower-right); and
+* it can be found in the list of words `L`.
 
 ## File Names
 Your program should be in a file named `word_search.py`
@@ -50,7 +50,7 @@ lob, wag (diagonal, top-left to bottom-right)
 ```
 
 ## Input files
-You can use the file [WORDS](), which is a list of about 45,000 words, to test your program. However, note that we may also use other word-lists, which may be bigger or smaller than this list, when testing your code. You should test your code using your own word-lists, which can be bigger or smaller than this list and whose words that may or may not be real English words.
+You can use the file [WORDS](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/week-1/long-problems/WORDS.txt), which is a list of about 45,000 words, to test your program. However, note that we may also use other word-lists, which may be bigger or smaller than this list, when testing your code. You should test your code using your own word-lists, which can be bigger or smaller than this list and whose words that may or may not be real English words.
 
 ## Output format
 The words you find should be printed one to a line without any extra whitespace. The order in which they are printed does not matter.
