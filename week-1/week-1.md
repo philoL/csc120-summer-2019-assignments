@@ -38,7 +38,7 @@ Solutions to both short and long problems must be submitted on [Gradscope](https
 
 8. [Sum a CSV String](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/week-1/short-problems/sum1.md#csc-120-sum-a-csv-string)
 
-### Long Problems (24 + 50 = 74 points)
+### Long Problems (Test cases: 18+40=58 points; Coding Style: 16 points)
 
 1. [Word grid](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/week-1/long-problems/word_grid.md#csc-120-word-grid)
 
