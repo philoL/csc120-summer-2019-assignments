@@ -1,4 +1,4 @@
-# CSc 120 (Summer 2019): Assginment 1
+# CSc 120 (Summer 2019): Assignment 1
 
 ### General Requirements
 
@@ -12,7 +12,7 @@
 
 **Submission**:
 
-Solutions to both short and long problems must be submitted on [Gradscope](https://www.gradescope.com).
+Solutions to both short and long problems must be submitted on [Gradescope](https://www.gradescope.com).
 
 **Format** (You should use the templates to develope your code):
 
