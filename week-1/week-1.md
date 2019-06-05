@@ -20,6 +20,9 @@ Solutions to both short and long problems must be submitted on [Gradescope](http
 
 * Long problems MUST be submitted in **two** files, named **word_grid.py** and **word_search.py** respectly. Here are the [template I](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/week-1/templates/word_grid.py) and [template II](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/week-1/templates/word_search.py)
 
+**Test Cases**
+Test cases for [word_grid](https://github.com/philoL/csc120-summer-2019-assignments/tree/master/week-1/long-problems/word_grid_testcases) and [word_search](https://github.com/philoL/csc120-summer-2019-assignments/tree/master/week-1/long-problems/word_search_testcases) are provided.
+
 ### Short Problems (26 points)
 
 1. [Number to letter](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/week-1/short-problems/number2letter.md#csc-120-number-to-letter)
