@@ -1,0 +1,14 @@
+A,G,J,L,W,Y,H,M,X,E,S,B,S,T
+A,Z,E,S,Q,E,G,F,C,A,U,W,Z,X
+M,Z,U,H,U,Y,X,Z,U,Y,N,P,W,K
+U,C,M,H,G,S,F,R,D,X,M,N,X,T
+L,U,M,U,Y,S,L,J,M,P,C,X,K,K
+A,Z,J,L,B,T,W,B,X,R,C,P,L,O
+U,O,I,F,E,X,U,E,H,S,O,Y,D,N
+W,R,L,W,M,F,T,O,L,Z,F,R,S,N
+L,G,R,O,J,K,S,F,K,Q,D,Y,N,T
+M,N,E,K,O,Q,P,X,L,Y,H,T,F,K
+P,H,A,U,O,F,V,Z,K,A,Z,I,G,Q
+X,P,J,U,E,R,A,F,B,B,H,H,L,J
+R,K,O,L,W,F,S,D,T,E,A,E,Y,R
+P,D,A,W,L,Y,Y,Z,X,I,U,P,U,Y
