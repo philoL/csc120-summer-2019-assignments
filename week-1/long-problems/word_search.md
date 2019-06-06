@@ -53,7 +53,7 @@ lob, wag (diagonal, top-left to bottom-right)
 You can use the file [WORDS](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/week-1/long-problems/WORDS.txt), which is a list of about 45,000 words, to test your program. However, note that we may also use other word-lists, which may be bigger or smaller than this list, when testing your code. You should test your code using your own word-lists, which can be bigger or smaller than this list and whose words that may or may not be real English words.
 
 ## Output format
-The words you find should be printed one to a line without any extra whitespace. The order in which they are printed does not matter.
+The words you find should be printed one to a line without any extra whitespace. The order should be in alphabetical oder.
 
 ## Development Strategy
 
