@@ -11,19 +11,16 @@ See if you can write this function with only one loop, i.e., only a single for o
 ## Examples
 
 ```
->>> max_consec_sum([10,2,-3,4,3],1)
+>>> max_consec_sum([2,10,-3,4,3],1)
 10
 
->>> max_consec_sum([10,2,-3,4,3],2)
+>>> max_consec_sum([2,10,-3,4,3],2)
 12
 
->>> max_consec_sum([10,2,-3,4,3],3)
-9
+>>> max_consec_sum([2,10,-3,4,3],3)
+11
 
->>> max_consec_sum([10,2,-3,4,3],4)
-13
-
->>> max_consec_sum([10,2,-3,4,3],5)
-16
+>>> max_consec_sum([5, 1, 10],2)
+11
 ```
 
