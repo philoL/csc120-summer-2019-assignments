@@ -8,6 +8,7 @@ This repository is for the assignments of UA CSc120 Summer 2019
 
 * In-class Activities (10%)
 	* [ICA-1](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/ICA/ica1.pdf) (Due Jun 7, 8 AM)
+	* [ICA-2](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/ICA/ica2.pdf) (Due Jun 9, 8 AM)
 
 * Exercises
 	* [Week-1-Monday](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/week-1/exercises/ex-python-review-1.pdf)
