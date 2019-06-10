@@ -13,5 +13,6 @@ This repository is for the assignments of UA CSc120 Summer 2019
 		* [Solutions](ICA/ica2-solutions.pdf)
 
 * Exercises
-	* [Week-1-Monday](exercises/ex-python-review-1.pdf)
-	* [Week-1-Friday](exercises/ex-topdown.pdf)
+	* [Week-1-Monday (review)](exercises/ex-python-review-1.pdf)
+	* [Week-1-Friday (top_down)](exercises/ex-topdown.pdf)
+	* [Week-2-Monday (OOP)](exercises/ex-classes.pdf)
