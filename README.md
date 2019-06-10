@@ -5,6 +5,7 @@ This repository is for the assignments of UA CSc120 Summer 2019
 
 * Assignments (45%)
 	* [Assignment 1](week-1/week-1.md#csc-120-summer-2019-assginment-1)
+	* [Assignment 2](week-2/week-2.md#csc-120-summer-2019-assginment-1)
 
 * In-class Activities (10%)
 	* [ICA-1](ICA/ica1.pdf) (Due Jun 7, 8 AM)
