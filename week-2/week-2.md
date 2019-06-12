@@ -27,6 +27,10 @@
 
 * Long problems MUST be submitted in **one** files, named **pokemon.py**.
 
+**Test Cases**
+
+* [Test cases](long-problems/pokemon_testcases.zip) for pokemon
+
 ### Short Problems (18 + 7 = 25 points)
 
 1. [List to Dictionary](short-problems/list2dict.md)
