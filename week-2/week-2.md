@@ -27,7 +27,7 @@
 
 * Long problems MUST be submitted in **one** files, named **pokemon.py**.
 
-### Short Problems ()
+### Short Problems (18 + 7 = 25 points)
 
 1. [List to Dictionary](short-problems/list2dict.md)
 
@@ -37,5 +37,5 @@
 
 4. [Update a 2-level dictionary](short-problems/update_dict2.md)
 
-### Long Problems ()
+### Long Problems (50 + 25 = 75 points)
 * [Pokemon](long-problems/pokemon.md)
