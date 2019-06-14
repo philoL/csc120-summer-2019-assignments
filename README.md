@@ -4,7 +4,7 @@ This repository is for the assignments of UA CSc120 Summer 2019
 * [Coding Style](coding-style.md#csc-120-programming-style)
 
 * Assignments (45%)
-	* [Assignment 1](week-1/week-1.md#csc-120-summer-2019-assginment-1) 
+	* [Assignment 1](week-1/week-1.md#csc-120-summer-2019-assginment-1)
 		* word search: [program decomposition](week-1/word-search-decomp.pdf)
 	* [Assignment 2](week-2/week-2.md#csc-120-summer-2019-assginment-1)
 
@@ -14,6 +14,7 @@ This repository is for the assignments of UA CSc120 Summer 2019
 	* [ICA-2](ICA/ica2.pdf) (Due Jun 9, 8 AM)
 		* [Solutions](ICA/ica2-solutions.pdf)
 	* [ICA-3](ICA/ica3.pdf) (50 mins) (Due Jun 14, 8 AM)
+	* [ICA-4](ICA/ica4.pdf) (50 mins) (Due Jun 17, 8 AM)
 
 * Exercises
 	* [Week-1-Monday (review)](exercises/ex-python-review-1.pdf)
