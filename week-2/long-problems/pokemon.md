@@ -64,6 +64,7 @@ where `pokemon_type` is the type of Pokemon, and `max_average` is the average va
 		Notice that the Pokemon properties you read in do not change during the computation. This means that the average value for any property for any given Pokemon type will remain the same as well. This, in turn, means that the maximum average values will also not change. Thus, these values can all be computed once and saved, with query processing simply looking up the saved values as needed. This approach is closely related to an speedup technique called [memoization](https://en.wikipedia.org/wiki/Memoization).
 
 		Your code should be organized as follows:
+		
 			* After reading in all the Pokemon data: for each Pokemon type, compute the average value for each of its properties across all of the Pokemon that belong to that type. Save this result into a dictionary indexed by Pokemon type.
 			* Next, process the average values obtained in the previous step to compute the maximum average value for each property. Optionally, at this point you can also compute which Pokemon types have the maximum average value for each property.
 			* Use these data to help process user queries until there are no queries to process.
