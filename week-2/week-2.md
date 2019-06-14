@@ -13,7 +13,7 @@
 
 * Your code should follow the [style guidelines](../coding-style.md) for the class.
 * In addition,
-	* line-length cannot exceed 100 characters
+	* line-length cannot exceed 79 characters
 	* no function exceeds 30 lines
 
 **External Libraries**
