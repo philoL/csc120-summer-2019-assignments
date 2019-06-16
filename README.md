@@ -9,6 +9,7 @@ This repository is for the assignments of UA CSc120 Summer 2019
 	* [Assignment 2](week-2/week-2.md#csc-120-summer-2019-assginment-1)
 
 * In-class Activities (10%)
+	* Online Students can use this [guide](https://gradescope-static-assets.s3-us-west-2.amazonaws.com/help/submitting_hw_guide.pdf) for sumissions
 	* [ICA-1](ICA/ica1.pdf) (Due Jun 7, 8 AM)
 		* [Solutions](ICA/ica1-solutions.pdf)
 	* [ICA-2](ICA/ica2.pdf) (Due Jun 9, 8 AM)
