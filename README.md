@@ -6,8 +6,9 @@ This repository is for the assignments of UA CSc120 Summer 2019
 * Assignments (45%)
 	* [Assignment 1](week-1/week-1.md#csc-120-summer-2019-assginment-1)
 		* word search: [program decomposition](week-1/word-search-decomp.pdf)
-	* [Assignment 2](week-2/week-2.md#csc-120-summer-2019-assginment-1)
+	* [Assignment 2](week-2/week-2.md#csc-120-summer-2019-assginment-2)
 		* pokemon: [program decomposition](week-2/Assg2Decomposition.pdf)
+	* [Assignment 3](week-3/week-3.md#csc-120-summer-2019-assginment-3)
 
 * In-class Activities (10%)
 	* Online Students can use this [guide](https://gradescope-static-assets.s3-us-west-2.amazonaws.com/help/submitting_hw_guide.pdf) for sumissions
