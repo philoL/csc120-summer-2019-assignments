@@ -27,7 +27,7 @@
 
 * ALL short problems MUST be submitted in **one** file named **short_problems.py**. Here is the [template](templates/short_problems.py).
 
-* Long problems MUST be submitted in **two** files, named **basketball.py** and **n_grams.py**.
+* Long problems MUST be submitted in **two** files, named **basketball.py** and **ngrams.py**.
 
 **Test Cases**
 
