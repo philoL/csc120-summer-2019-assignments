@@ -47,4 +47,5 @@
 6. [Assert: Evens and Odds 3](https://www2.cs.arizona.edu/people/philoliang/cs120/week3/small-06.html)
 
 ### Long Problems (40 + 35 = 75 points)
-TBA
+1. [Basketball Data Analysis](https://www2.cs.arizona.edu/people/philoliang/cs120/week3/bball.html)
+2. [n-Grams](https://www2.cs.arizona.edu/people/philoliang/cs120/week3/ngrams.html)
