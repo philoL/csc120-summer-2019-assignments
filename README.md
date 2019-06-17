@@ -19,7 +19,8 @@ This repository is for the assignments of UA CSc120 Summer 2019
 		* [Solutions](ICA/ica3-solutions.pdf)
 	* [ICA-4: Built-in data structures](ICA/ica4.pdf) (50 mins) (Due Jun 17, 8 AM)
 		* [Solutions](ICA/ica4-solutions.pdf)
-	* [ICA-5: Invariant](ICA/ica5.pdf) (35 mins) (Due Jun 19, 8 AM)
+	* [ICA-5: Invariant](ICA/ica5.pdf) (35 mins) (Not graded)
+		* [Solutions](ICA/ica5-solutions.pdf)
 
 * Exercises
 	* [Week-1-Monday (review)](exercises/ex-python-review-1.pdf)
