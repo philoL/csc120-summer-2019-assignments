@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>CSc 120: Classes: Anagrams</title>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<link href="../../style.css" rel="stylesheet" type="text/css"/>
+
+</head>
+<body bgcolor="white">
+<p>
+<img src="../../IMGS/uadcs.gif" alt="University of Arizona, Department of Computer Science"/>
+</p>
+
+<h1>CSc 120: Classes: Anagrams</h1>
+
+<h2>Expected Behavior</h2>
+
+Write a Python class <b>Word</b> that meets the following requirements:
+<p/>
+<b>Attributes:</b>
+<p/>
+<ul>
+  <li>
+    <b><tt>_word</tt></b>: the string that makes up the word;
+  </li>
+</ul>
+<p/>
+<b>Methods:</b>
+<p/>
+<ul>
+  <li>
+    <b><tt>__init__(self, word)</tt></b>: initializes the <b><tt>_word</tt></b> attribute
+    of the object with the string <b><tt>word</tt></b> supplied as the method's argument.
+  </li>
+  <li>
+    <b><tt>__str__(self)</tt></b>: returns the value of the object's
+    <b><tt>_word</tt></b> attribute with all upper-case letters converted to lower-case.
+  </li>
+  <li>
+    A method that takes a <b><tt>Word</tt></b> object <b><tt>other</tt></b> as
+    argument and returns <b><tt>True</tt></b> if
+    <b><tt>other</tt></b> is an anagram of the word, <b><tt>False</tt></b>
+    otherwise.
+    <p/>
+    Given two <b><tt>Word</tt></b> objects <b><tt>w1</tt></b> and
+    <b><tt>w2</tt></b>, it should be possible to determine whether they
+    are anagrams of each other (ignoring upper/lower case differences) using
+    the expression
+    <blockquote>
+      <b><tt>w1 == w2</tt></b>
+    </blockquote>
+  </li>
+</ul>
+<p/>
+<b>Note:</b> A word can need not contain just letters.  For
+example, <b><tt>&quot;Hi there! :-)&quot;</tt></b> is a legal word.
+
+<h2>Examples</h2>
+<ol>
+  <li>
+    <b><tt>word1 = Word(&quot;post&quot;)<br/>
+	word2 = Word(&quot;stop&quot;)<br/>
+	word1 == word2</tt></b><br/>
+	<br/>
+	Result: <b><tt>True</tt></b>
+	<p/>
+  </li>
+  <li>
+    <b><tt>word1 = Word(&quot;&quot;)<br/>
+	word2 = Word(&quot;&quot;)<br/>
+	word1 == word2</tt></b><br/>
+	<br/>
+	Result: <b><tt>True</tt></b>
+	<p/>
+  </li>
+  <li>
+    <b><tt>word1 = Word(&quot;aBlE&quot;)<br/>
+	str(word1)</tt></b><br/>
+	<br/>
+	Result: <b><tt>able</tt></b>
+	<p/>
+  </li>
+  <li>
+    <b><tt>word1 = Word(&quot;able&quot;)<br/>
+	word2 = Word(&quot;baker&quot;)<br/>
+	word1 == word2</tt></b><br/>
+	<br/>
+	Result: <b><tt>False</tt></b>
+	<p/>
+  </li>
+  <li>
+    <b><tt>word1 = Word(&quot;Hi there! :-)&quot;)<br/>
+	word2 = Word(&quot;Hit here! :-)&quot;)<br/>
+	word1 == word2</tt></b><br/>
+	<br/>
+	Result: <b><tt>True</tt></b>
+	<p/>
+  </li>
+
+
+</ol>
+
+<p/>
+<hr/>
+</body>
+</html>
+
