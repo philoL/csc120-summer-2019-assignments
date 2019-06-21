@@ -23,6 +23,7 @@ This repository is for the assignments of UA CSc120 Summer 2019
 	* [ICA-5: Invariant](ICA/ica5.pdf) (35 mins) (No grading)
 		* [Solutions](ICA/ica5-solutions.pdf)
 	* [ICA-6: Test+Class](ICA/ica6-test+class.pdf) (50 mins) (Due Jun 21, 8 AM)
+	* [ICA-7: Exceptions](ICA/ica7-exceptions.pdf) (30 mins) (Due Jun 23, 8 AM)
 
 * Exercises
 	* [Week-1-Monday (review)](exercises/ex-python-review-1.pdf)
