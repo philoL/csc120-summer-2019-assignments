@@ -6,7 +6,7 @@
 
 *Short problems*: 11:00 PM, Fri Jun 21
 
-*Long problems*: 11:00 PM, Sun Jun 23
+*Long problems*: ~11:00 PM, Sun Jun 23~ (extended to 11PM, Jun 25)
 
 ### General Requirements
 **Coding Style**:
