@@ -29,6 +29,7 @@ This repository is for the assignments of UA CSc120 Summer 2019
 		* [Solutions](ICA/ica7-solutions.pdf)
 	* [ICA-8: Complexity](ICA/ica8.pdf) (30 mins) (Due July 1, 8 AM)
 		* [Solutions](ICA/ica8-solutions.pdf)
+	* [ICA-9](ICA/ica9.pdf) (40 mins) (Due July 3, 8 AM)
 
 * Exercises
 	* [Week-1-Monday (review)](exercises/ex-python-review-1.pdf)
