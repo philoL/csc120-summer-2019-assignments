@@ -1,0 +1,27 @@
+hit
+miss
+miss (again)
+miss
+miss
+illegal guess
+miss
+hit
+P sunk
+hit
+miss
+hit
+illegal guess
+D sunk
+hit
+hit
+hit (again)
+B sunk
+hit
+hit
+S sunk
+hit
+hit
+hit
+hit
+A sunk
+all ships sunk: game over

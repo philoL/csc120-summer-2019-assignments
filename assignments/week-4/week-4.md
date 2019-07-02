@@ -29,6 +29,8 @@
 
 * Long problems MUST be submitted in **two** files, named **battleship.py** and **battleship-tests.txt**.
 
+**Test Cases**
+* [Test Case 10](testcases)
 
 ### Short Problems (10 + 10 = 20 points)
 

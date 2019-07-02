@@ -1,0 +1,2 @@
+testcases/example-placement.txt
+testcases/private-guess.txt
