@@ -28,7 +28,7 @@
 
 ### Problems (100 points)
 
-1. [ICA-10 Problems 1-5](../../../ICA/week5/ica10-linkedlists.pdf)
+1. [ICA-10 Problems 1-5](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/ICA/ica10-linkedlists.pdf)
 	* Implement two classes in ICA-10 with the methonds mentioned in Problems 1-5.
 
 2. [Sorting a list](https://www2.cs.arizona.edu/people/philoliang/cs120/week5/linked-list-sorting.html)
