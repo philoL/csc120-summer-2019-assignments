@@ -31,6 +31,7 @@
 
 **Test Cases**
 * [Test Case 10](testcases)
+* [All Test Cases](testcases/testcases.zip)
 
 ### Short Problems (10 + 10 = 20 points)
 
