@@ -39,3 +39,4 @@ This repository is for the assignments of UA CSc120 Summer 2019
 	* [Week-1-Friday (top_down)](exercises/ex-topdown.pdf)
 	* [Week-2-Monday (OOP)](exercises/ex-classes.pdf)
 	* [Week-3-Monday (invariants)](exercises/ex-invariants.pdf)
+	* [Week-5-Friday (ADT)](exercises/ex-stacks-queues.pdf)
