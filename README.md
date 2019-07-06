@@ -12,6 +12,7 @@ This repository is for the assignments of UA CSc120 Summer 2019
 	* [Assignment 4](assignments/week-4/week-4.md)
 		* battleship: [program decomposition](assignments/week-4/Assignment4Decomposition.pdf)
 	* [Assignment 5](assignments/week-5/week-5.md)
+	* [Assignment 6](assignments/week-6/week-6.md)
 
 * In-class Activities (10%)
 	* Online Students can use this [guide](https://gradescope-static-assets.s3-us-west-2.amazonaws.com/help/submitting_hw_guide.pdf) for sumissions
