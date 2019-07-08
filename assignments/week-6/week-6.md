@@ -29,7 +29,7 @@
 
 * Long problems MUST be submitted in a file named **fake_news.py**
 
-### Short Problems()
+### Short Problems(20 + 20 = 40 points)
 
 **Submit the functions for problems 1-4 in list_compresion.py**
 
@@ -49,7 +49,7 @@
 
 9. [Converting to Base 2](convert2base2.md)
 
-### Long Problems ()
+### Long Problems (27 + 33 = 60 points)
 
 1. [Fake news](https://www2.cs.arizona.edu/people/philoliang/cs120/week6/fake-news.html)
 
