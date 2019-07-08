@@ -32,18 +32,21 @@
 ### Short Problems()
 
 **Submit the functions for problems 1-4 in list_compresion.py**
+
 1. [List Comprehensions 1](https://www2.cs.arizona.edu/people/philoliang/cs120/week6/lc1.html)
 2. [List Comprehensions 2](https://www2.cs.arizona.edu/people/philoliang/cs120/week6/lc2.html)
 3. [List Comprehensions 3](https://www2.cs.arizona.edu/people/philoliang/cs120/week6/lc3.html)
 4. [List Comprehensions 4](https://www2.cs.arizona.edu/people/philoliang/cs120/week6/lc4.html)
 
 **Submit the functions for problems 5-8 in recursions.py**
+
 5. [List to String (Recursive)](https://www2.cs.arizona.edu/people/philoliang/cs120/week6/rs1.html)
 6. [List Palindrome (Recursive)](https://www2.cs.arizona.edu/people/philoliang/cs120/week6/rs2.html)
 7. [Column to List (Recursive)](https://www2.cs.arizona.edu/people/philoliang/cs120/week6/rs3.html)
 8. [Diagonal to List (Recursive)](https://www2.cs.arizona.edu/people/philoliang/cs120/week6/rs4.html)
 
 **Submit the function for problem 9 in convert_to_base_2.py**
+
 9. [Converting to Base 2](convert2base2.md)
 
 ### Long Problems ()
