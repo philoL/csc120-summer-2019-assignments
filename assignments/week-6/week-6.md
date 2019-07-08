@@ -53,5 +53,7 @@
 
 1. [Fake news](https://www2.cs.arizona.edu/people/philoliang/cs120/week6/fake-news.html)
 
+2. [Black box tests](https://www2.cs.arizona.edu/people/philoliang/cs120/week6/blackboxtests.html)
+
 
 
