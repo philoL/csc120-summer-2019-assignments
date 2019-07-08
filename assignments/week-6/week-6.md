@@ -1,4 +1,4 @@
-# CSc 120 (Summer 2019): Assignment 5
+# CSc 120 (Summer 2019): Assignment 6
 
 ### General Requirements
 
