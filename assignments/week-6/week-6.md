@@ -31,7 +31,7 @@
 
 ### Short Problems(20 + 20 = 40 points)
 
-**Submit the functions for problems 1-4 in list_compresion.py**
+**Submit the functions for problems 1-4 in list_compresion.py** *(use list comprehensions only)*
 
 1. [List Comprehensions 1](https://www2.cs.arizona.edu/people/philoliang/cs120/week6/lc1.html)
 2. [List Comprehensions 2](https://www2.cs.arizona.edu/people/philoliang/cs120/week6/lc2.html)
