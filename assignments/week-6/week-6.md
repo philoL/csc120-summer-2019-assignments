@@ -25,13 +25,13 @@
 
 **Format**
 
-* Short problems MUST be sumitted in three files named **list_compresion.py**, **recursions.py**, and **convert_to_base_2.py**.
+* Short problems MUST be sumitted in three files named **list_comprehension.py**, **recursions.py**, and **convert_to_base_2.py**.
 
 * Long problems MUST be submitted in a file named **fake_news.py**
 
 ### Short Problems(20 + 20 = 40 points)
 
-**Submit the functions for problems 1-4 in list_compresion.py** *(use list comprehensions only)*
+**Submit the functions for problems 1-4 in list_comprehension.py** *(use list comprehensions only)*
 
 1. [List Comprehensions 1](https://www2.cs.arizona.edu/people/philoliang/cs120/week6/lc1.html)
 2. [List Comprehensions 2](https://www2.cs.arizona.edu/people/philoliang/cs120/week6/lc2.html)
