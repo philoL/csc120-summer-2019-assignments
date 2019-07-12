@@ -27,7 +27,7 @@
 
 * Short problems *
 
-* Long problems MUST be submitted in a file named **fake_news_ms.py**
+* Long problems MUST be submitted in two files named **fake_news_ms.py** and **street.py**.
 
 ### Short Problems(TBD)
 
