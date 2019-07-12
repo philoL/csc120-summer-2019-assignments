@@ -13,6 +13,7 @@ This repository is for the assignments of UA CSc120 Summer 2019
 		* battleship: [program decomposition](assignments/week-4/Assignment4Decomposition.pdf)
 	* [Assignment 5](assignments/week-5/week-5.md)
 	* [Assignment 6](assignments/week-6/week-6.md)
+	* [Assignment 7](assignments/week-7/week-7.md)
 
 * In-class Activities (10%)
 	* Online Students can use this [guide](https://gradescope-static-assets.s3-us-west-2.amazonaws.com/help/submitting_hw_guide.pdf) for sumissions
@@ -34,8 +35,8 @@ This repository is for the assignments of UA CSc120 Summer 2019
 		* [Solutions](ICA/ica8-solutions.pdf)
 	* [ICA-9](ICA/ica9.pdf) (40 mins) (Due July 3, 8 AM)
 	* [ICA-10](ICA/ica10-linkedlists.pdf) (bound to Assignment 5)
-	* [ICA-11](ICA/ica11-recursion.pdf)
-	* [ICA-12](ICA/ica12.pdf)
+	* [ICA-11](ICA/ica11-recursion.pdf) (No grading)
+	* [ICA-12](ICA/ica12.pdf) (Due July 12, 8 AM)
 
 * Exercises
 	* [Week-1-Monday (review)](exercises/ex-python-review-1.pdf)
