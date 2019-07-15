@@ -25,14 +25,14 @@
 
 **Format**
 
-* Short problems *
+* Short problems MUST be submitted in one file **binary_search_tree.py**.
 
 * Long problems MUST be submitted in two files named **fake_news_ms.py** and **street.py**.
 
-### Short Problems(TBD)
+### Short Problems(10 + 10 = 20 points)
+1. [Binary Search Tree](https://www2.cs.arizona.edu/people/philoliang/cs120/week7/small-01.html)
 
-
-### Long Problems (27 + 33 = 60 points)
+### Long Problems (40 + 40 = 80 points)
 
 1. [Fake news with merge sort](https://www2.cs.arizona.edu/people/philoliang/cs120/week7/fake-news-ms.html)
 2. [Street](https://www2.cs.arizona.edu/people/philoliang/cs120/week7/street)
