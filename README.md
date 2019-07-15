@@ -35,6 +35,7 @@ This repository is for the assignments of UA CSc120 Summer 2019
 		* [Solutions](ICA/ica8-solutions.pdf)
 	* [ICA-9](ICA/ica9.pdf) (40 mins) (Due July 3, 8 AM)
 	* [ICA-10](ICA/ica10-linkedlists.pdf) (bound to Assignment 5)
+		* [Solutions](linked_list.py)
 	* [ICA-11](ICA/ica11-recursion.pdf) (No grading)
 	* [ICA-12](ICA/ica12.pdf) (Due July 12, 8 AM)
 	* [ICA-13](ICA/ica13.pdf) (TBD)
