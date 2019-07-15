@@ -37,6 +37,7 @@ This repository is for the assignments of UA CSc120 Summer 2019
 	* [ICA-10](ICA/ica10-linkedlists.pdf) (bound to Assignment 5)
 	* [ICA-11](ICA/ica11-recursion.pdf) (No grading)
 	* [ICA-12](ICA/ica12.pdf) (Due July 12, 8 AM)
+	* [ICA-13](ICA/ica13.pdf)
 
 * Exercises
 	* [Week-1-Monday (review)](exercises/ex-python-review-1.pdf)
@@ -44,3 +45,4 @@ This repository is for the assignments of UA CSc120 Summer 2019
 	* [Week-2-Monday (OOP)](exercises/ex-classes.pdf)
 	* [Week-3-Monday (invariants)](exercises/ex-invariants.pdf)
 	* [Week-5-Friday (ADT)](exercises/ex-stacks-queues.pdf)
+	* [Week-7-Monday (Tree)](exercises/ex-tree1.pdf)
