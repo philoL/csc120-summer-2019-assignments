@@ -41,6 +41,8 @@ This repository is for the assignments of UA CSc120 Summer 2019
 	* [ICA-12](ICA/ica12.pdf) (Due July 12, 8 AM)
 		* [Solutions](ICA/ica12-solutions.py)
 	* [ICA-13](ICA/ica13.pdf) (TBD)
+	* [ICA-14](ICA/ica14.pdf) (TBD)
+
 
 * Exercises
 	* [Week-1-Monday (review)](exercises/ex-python-review-1.pdf)
