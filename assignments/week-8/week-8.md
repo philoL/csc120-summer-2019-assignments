@@ -4,14 +4,14 @@
 
 **Due Date**:
 
-*Short Problems*: 11:00 PM, Fri July 28
+*Short Problems*: 11:00 PM, Sunday July 28
 
-*Long Problems*: 11:00 PM, Sun July 31
+*Long Problems*: 11:00 PM, Wednesday July 31
 
 ### General Requirements
 **Coding Style**:
 
-* Your code should follow the [style guidelines](../coding-style.md) for the class.
+* Your code should follow the [style guidelines](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/coding-style.md) for the class.
 * In addition,
 	* no function exceeds 30 lines
 
@@ -33,7 +33,7 @@
 TBD
 
 ### Long Problems ()
-1. Expression Tree: Problem 4 in [ICA-14](../ICA/ica14.pdf)
+1. Expression Tree: Problem 4 in [ICA-14](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/ICA/ica14.pdf)
 2. [Prefix Codes](https://www2.cs.arizona.edu/people/philoliang/cs120/week8/prefix-codes.html)
 
 
