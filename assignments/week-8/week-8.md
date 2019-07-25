@@ -27,7 +27,7 @@
 
 * Short problems: TBD
 
-* Long problems MUST be submitted in two files named **fake_news_ms.py** and **huffman.py**.
+* Long problems MUST be submitted in two files named **expression_tree.py** and **huffman.py**.
 
 ### Short Problems()
 TBD
