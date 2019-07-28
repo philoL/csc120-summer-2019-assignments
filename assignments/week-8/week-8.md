@@ -4,8 +4,6 @@
 
 **Due Date**:
 
-*Short Problems*: 11:00 PM, Sunday July 28
-
 *Long Problems*: 11:00 PM, Wednesday July 31
 
 ### General Requirements
@@ -25,15 +23,12 @@
 
 **Format**
 
-* Short problems: TBD
-
 * Long problems MUST be submitted in two files named **expression_tree.py** and **huffman.py**.
 
-### Short Problems()
-TBD
-
-### Long Problems ()
+### Long Problems (48 + 52 = 100 points)
 1. Expression Tree: Problem 4 in [ICA-14](https://github.com/philoL/csc120-summer-2019-assignments/blob/master/ICA/ica14.pdf)
+	* [Test cases](testcases.py)
+
 2. [Prefix Codes](https://www2.cs.arizona.edu/people/philoliang/cs120/week8/prefix-codes.html)
 
 
