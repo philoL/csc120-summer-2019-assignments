@@ -28,7 +28,7 @@ We can build a table of all of the possible two word prefixes and the suffixes t
 |         Prefix        |        Suffixes        |
 |:---------------------:|:----------------------:|
 | Half a                | bee                    |
-| a bee                 | philosophically        |
+| a bee                 | philosophically<br>a   |
 |                       | be                     |
 |                       | Due                    |
 | bee philosophically   | Must                   |
