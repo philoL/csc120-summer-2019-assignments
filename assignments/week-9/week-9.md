@@ -29,7 +29,7 @@
 Notes:
 
 * There is no late day for this assignment.
-* If you pass all of the student tester test cases, you will earn up to 80 points (that will depend of course on your style and implementation points as usual).
+* If you pass test cases, you will earn up to 80 points (that will depend of course on your style and implementation points as usual).
 * The Gradescope Autograder will have an additional 4 test cases that count for 10 points each. All of those test cases will go towards the extra credit points.
 * Earning the Extra Credit points (40 points) can increase your overall grade by around 2 points!!
 
