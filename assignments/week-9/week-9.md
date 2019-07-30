@@ -33,6 +33,7 @@ Notes:
 * The Gradescope Autograder will have an additional 4 test cases that count for 10 points each. All of those test cases will go towards the extra credit points.
 * Earning the Extra Credit points (40 points) can increase your overall grade by around 2 points!!
 
+1. [Writer Bot](long-problems/writer_bot.md)
 
 
 
