@@ -28,9 +28,7 @@ We can build a table of all of the possible two word prefixes and the suffixes t
 |         Prefix        |        Suffixes        |
 |:---------------------:|:----------------------:|
 | Half a                | bee                    |
-| a bee                 | philosophically<br>a   |
-|                       | be                     |
-|                       | Due                    |
+| a bee                 | philosophically<br>be<br>Due|
 | bee philosophically   | Must                   |
 | philosophically Must, | ipso                   |
 | Must, ipso            | facto                  |
