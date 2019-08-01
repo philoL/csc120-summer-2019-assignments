@@ -25,7 +25,9 @@
 
 **Format**
 
-* Long problems MUST be submitted in two files named **writer_bot.py**.
+* Short problems MUST be submitted in file named **build_bst.py**.
+
+* Long problems MUST be submitted in one file named **writer_bot.py**.
 
 ### Short Problems (10 + 10 = 20 points)
 1. [Construct Binary Search Tree](short_problems.md)
