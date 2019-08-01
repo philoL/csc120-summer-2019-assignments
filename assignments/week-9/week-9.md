@@ -4,7 +4,9 @@
 
 **Due Date**:
 
-*Long Problems*: 11:00 PM, Wednesday August 8 (*No late day*)
+*Short Problems*: 11:00 PM, Monday August 5
+
+*Long Problems*: 11:00 PM, Wednesday August 7 (*No late day*)
 
 ### General Requirements
 **Coding Style**:
@@ -24,6 +26,9 @@
 **Format**
 
 * Long problems MUST be submitted in two files named **writer_bot.py**.
+
+### Short Problems (10 + 10 = 20 points)
+1. [Construct Binary Search Tree](short_problems.md)
 
 ### Long Problems (80 points plus 40 additional Extra Credit points)
 Notes:
