@@ -47,6 +47,8 @@ This repository is for the assignments of UA CSc120 Summer 2019
 	* [ICA-15 hashing 1](ICA/ica15-hash.pdf) (Due July 29, 8 AM)
 	* [ICA-16 hashing 2](ICA/ica16-hash.pdf) (Due July 31, 8 AM)
 	* [ICA-17 final review](ICA/ica17.pdf) (Due Aug 1, 8 AM)
+		* [Solutions](ICA/ica17-solutions.pdf)
+	* [ICA-18 Tree terminology + quick sort](ICA/ica18.pdf) (Due Aug 4, 8 AM)
 
 * Exercises
 	* [Week-1-Monday (review)](exercises/ex-python-review-1.pdf)
