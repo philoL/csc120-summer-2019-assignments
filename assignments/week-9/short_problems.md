@@ -21,7 +21,4 @@ For a normal binary tree, it needs two traversals (e.g., preorder and inorder tr
 >>> str(build_tree([5, 4, 3, 2, 1]))
 '(5 (4 (3 (2 (1 None None) None) None) None) None)'
 
->>> str(build_tree([23, 24, 13, 42, 21]))
-'(23 None (24 (13 None None) (42 (21 None None) None)))'
-
 ```
